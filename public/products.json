@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1A",
+        "img": "https://d1vd9vlqo1765y.cloudfront.net/blog/best-shots-in-cricket-history-all-cricket-shots-name-with-image-1.jpg",
+        "name": "Switch Hit",
+        "TimeRequired": 30
+    },
+    {
+        "id": "2B",
+        "img": "https://d1vd9vlqo1765y.cloudfront.net/blog/best-shots-in-cricket-history-all-cricket-shots-name-with-image-2.jpg",
+        "name": " Upper Cut",
+        "TimeRequired": 20
+    },
+    {
+        "id": "3C",
+        "img": "https://d1vd9vlqo1765y.cloudfront.net/blog/best-shots-in-cricket-history-all-cricket-shots-name-with-image-3.jpg",
+        "name": "Pull Shot",
+        "TimeRequired": 25
+    },
+    {
+        "id": "4D",
+        "img": "https://d1vd9vlqo1765y.cloudfront.net/blog/best-shots-in-cricket-history-all-cricket-shots-name-with-image-6.jpg",
+        "name": "Cover Drive",
+        "TimeRequired": 40
+    },
+    {
+        "id": "5E",
+        "img": "https://d1vd9vlqo1765y.cloudfront.net/blog/best-shots-in-cricket-history-all-cricket-shots-name-with-image-7.jpg",
+        "name": "Paddle Sweep",
+        "TimeRequired": 45
+    },
+    {
+        "id": "6F",
+        "img": "https://d1vd9vlqo1765y.cloudfront.net/blog/best-shots-in-cricket-history-all-cricket-shots-name-with-image-11.jpg",
+        "name": "Helicopter Shot",
+        "TimeRequired": 50
+    }
+]
